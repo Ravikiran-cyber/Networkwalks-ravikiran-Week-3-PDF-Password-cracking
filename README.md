@@ -38,10 +38,10 @@ Successfully cracked the password of the test PDF file using John the Ripper, ga
 **Practical Task:** PDF Password Cracking  
 **Status:** Successfully Completed
 
-https://github.com/Ravikiran-cyber/Networkwalks-ravikiran-Week-3-PDF-Password-cracking/blob/5e9b7e53c069dfd33d5b908df1055c8be7f2ad70/week-3.1.png
+![john](https://github.com/Ravikiran-cyber/Networkwalks-ravikiran-Week-3-PDF-Password-cracking/blob/5e9b7e53c069dfd33d5b908df1055c8be7f2ad70/week-3.1.png)
 
-https://github.com/Ravikiran-cyber/Networkwalks-ravikiran-Week-3-PDF-Password-cracking/blob/5e9b7e53c069dfd33d5b908df1055c8be7f2ad70/week3.2.png
+![john](https://github.com/Ravikiran-cyber/Networkwalks-ravikiran-Week-3-PDF-Password-cracking/blob/5e9b7e53c069dfd33d5b908df1055c8be7f2ad70/week3.2.png)
 
-https://github.com/Ravikiran-cyber/Networkwalks-ravikiran-Week-3-PDF-Password-cracking/blob/5e9b7e53c069dfd33d5b908df1055c8be7f2ad70/week3.3.png
+![john](https://github.com/Ravikiran-cyber/Networkwalks-ravikiran-Week-3-PDF-Password-cracking/blob/5e9b7e53c069dfd33d5b908df1055c8be7f2ad70/week3.3.png)
 
 
